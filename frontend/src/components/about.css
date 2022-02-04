@@ -1,0 +1,28 @@
+.about {
+  height: 100vh;
+}
+
+.about h2 {
+  margin: 4rem 0 1rem 0;
+  font-weight: 100;
+  letter-spacing: .4rem;
+}
+
+.about h3 {
+  letter-spacing: 1.13rem;
+  color: #505583;
+  font-weight: 600;
+}
+
+.about p {
+  line-height: 1.7;
+}
+
+@media screen and (max-width: 440px) {
+  .about h2 {
+    margin: 1rem 0;
+    font-size: 2rem;
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=about.css.map */
